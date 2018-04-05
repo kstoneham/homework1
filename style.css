@@ -1,0 +1,48 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+#main-bio {
+    float: left;
+    width: 70%;
+}
+#contact-info {
+    clear: both;
+    width: 30%;
+    line-height: 1.5em;
+    position: relative;
+    top: 40px;
+    right: 10px;
+    padding: 10px;
+}
+#bio-image {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+body {
+    background: #efeee7;
+    font: "Georgia";
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #333333;
+    text-align: center;
+}
+h1 {
+    color: #eee;
+    font-size: 28px;
+}
+h2 {
+    font-size: 24px;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+a {
+    color: #d21034;
+}
